@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Bjeffrey85/FreeTube-Android/releases/latest/download/FreeTube-Android.apk">
+  <a href="https://github.com/Bjeffrey85/FreeTube-Android/releases/latest">
     <img alt="Download APK" src="https://img.shields.io/badge/Download-APK-14b8a6?style=for-the-badge&logo=android&logoColor=white" />
   </a>
 </p>
