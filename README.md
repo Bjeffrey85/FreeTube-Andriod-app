@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Bjeffrey85/FreeTube-Android-app/releases/latest">
+  <a href="https://github.com/Bjeffrey85/FreeTube-Andriod-app/releases">
     <img alt="Download APK" src="https://img.shields.io/badge/Download-APK-14b8a6?style=for-the-badge&logo=android&logoColor=white" />
   </a>
 </p>
@@ -36,7 +36,7 @@ It runs on **GeckoView**, Firefox's own engine packaged as an app, not Android's
 
 ## Install
 
-1. Download **[FreeTube-Android.apk](https://github.com/Bjeffrey85/FreeTube-Android-app/releases/latest)** to your phone.
+1. Download **[FreeTube-Android.apk](https://github.com/Bjeffrey85/FreeTube-Android-app/releases)** to your phone.
 2. Open it and allow your browser or file manager to install apps.
 3. Open FreeTube and tap **Allow** when it asks about notifications. The background-play controls need this.
 4. Sign in to YouTube.
